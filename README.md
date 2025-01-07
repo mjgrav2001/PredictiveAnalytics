@@ -23,4 +23,6 @@ Additional online texts:
 **COVID-19 Global Data -Time Series Panel Data with LSTM,** Hua Shi, https://melaniesoek0120.medium.com/covid-19-global-data-time-series-prediction-with-lstm-recurrent-neural-networks-f7825c4a1f6f
 
 **RPI Introduction to Machine Learning Applications, 31. Panel Data vs Time Series Analysis,** https://pages.github.rpi.edu/kuruzj/website_introml_rpi/notebooks/07-intro-timeseries/02-forcasting-rossman.html
-![image](https://github.com/user-attachments/assets/c7360ffa-e85f-4f43-80be-32f2952f8fd0)
+
+### Topics
+![image](https://github.com/user-attachments/assets/ff34909d-1cf1-458b-b474-da66df8d1a5c)
