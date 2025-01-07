@@ -1,5 +1,6 @@
 # PredictiveAnalytics
-Data and code repository for GSU Course MSA 8200 'Predictive Analytics'
+
+Data and code repository for GSU Course **MSA 8200 'Predictive Analytics'**.
 
 This material has been collected and developed for the course MSA 8200 in the Master of Science in Analytics at the J. Mack Robinson College of Business at Georgia State University.
 
