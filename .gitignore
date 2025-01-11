@@ -1,7 +1,3 @@
-# Model finetuning files
-finetuning/first_llm_e2e_workflow/torchtune/
-finetuning/lora/torchtune/
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
